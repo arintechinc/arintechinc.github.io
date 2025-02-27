@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: Docs
 ---
 
-## You're ready to go!
+## Contents
 
-Start developing your Jekyll website.
+* Shift Inspection App - Quickstart
